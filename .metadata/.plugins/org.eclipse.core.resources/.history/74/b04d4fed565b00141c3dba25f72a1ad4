@@ -1,0 +1,12 @@
+
+public class Tax {
+	int numberOfDependens;
+	double grossIncome;
+	String state;
+	
+	public double calcTax() {
+		
+		return 234.55;
+		
+	}
+}
